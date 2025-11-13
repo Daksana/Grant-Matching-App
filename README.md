@@ -63,6 +63,5 @@ IF full_filters available → Apply all
 ]
 ```
 
----
-
 *Project developed under AI Orchestration Bootcamp by Senzmate IoT Intelligence*
+d under AI Orchestration Bootcamp by Senzmate IoT Intelligence*
