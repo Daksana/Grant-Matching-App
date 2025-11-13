@@ -1,0 +1,142 @@
+[
+  {
+    "description": "AgriFuture Solutions Inc. is a small-to-medium enterprise (SME) based in Ontario. We are developing AI-driven crop monitoring systems to optimize irrigation and reduce water waste. We are seeking $500,000, which is 60% of our pilot project cost, to scale field trials. We are a for-profit company operating for 2 years with 15 employees.",
+    "industry/sector": "Agriculture Technology",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": "Our technology uses proprietary drone-based thermal imaging combined with a machine learning model. We have proven a 30% reduction in water usage in our initial test plots. Funding will be used for 10 more trial deployments and to hire 2 data scientists."
+  },
+  {
+    "description": "HealthStep Mobile is a non-profit organization from Nova Scotia. Our mission is to provide mobile clinical services to remote and underserved communities. We are seeking $1.2 million to purchase and retrofit two mobile clinic vans and cover operational costs for the first year. We have been operating for 3 years with 8 core staff and 25 volunteers.",
+    "industry/sector": "Public Health",
+    "region": "Nova Scotia",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "Muskoka Arts Collective is a local indigenous council from Ontario. We are dedicated to promoting and preserving Anishinaabe arts and crafts. We are requesting $150,000 to fund our annual 'Generations' festival, which pairs elders with youth to transfer traditional skills, and to build a small community digital archive.",
+    "industry/sector": "Arts and Heritage",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "PureCycle Minerals is a private, for-profit business in Ontario. We are pioneering a new, eco-friendly process for recycling rare earth elements from e-waste. We are seeking $25 million to build our first commercial-scale processing plant. We have 45 employees and have been in R&D for 5 years.",
+    "industry/sector": "Critical Minerals",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": "The global REE market is dominated by inefficient and environmentally damaging extraction. Our patented solvent-based separation process recovers 99.8% of target materials with zero toxic runoff. This funding is for CAPEX to build our 10-tonne-per-day facility."
+  },
+  {
+    "description": "EV-GridLogix is a technology SME based in Quebec. We develop software for managing electric vehicle fleet charging to reduce strain on the power grid. We're looking for $2 million to commercialize our V2G (Vehicle-to-Grid) platform. We are a 4-year-old company with 30 employees.",
+    "industry/sector": "Electric Vehicle Technology",
+    "region": "Quebec",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "BioPlastix Solutions is a green-tech startup from Ontario. We have developed a fully biodegradable bioplastic from agricultural waste. We are seeking $750,000 for process optimization and to achieve regulatory certification for food-grade packaging. We are a for-profit SME with 12 employees, operating for 1.5 years.",
+    "industry/sector": "Green Technology",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "CodeConnect Youth is a non-profit organization based in Alberta. We run free coding bootcamps for at-risk youth and new immigrants. We are seeking $300,000 to expand our 'Code-to-Career' mentorship program and secure 50 new internship placements for our graduates.",
+    "industry/sector": "Education",
+    "region": "Alberta",
+    "country": "Canada",
+    "pitch_deck_extracted": "Our 12-week intensive program has an 85% completion rate. Graduates see an average 40% increase in income. The funding will allow us to double our cohort size from 50 to 100 students per year and provide essential career-coaching support."
+  },
+  {
+    "description": "SmartPart Auto is an OEM parts manufacturer in Ontario. We use 3D printing and advanced composites to produce lightweight components for road vehicles. We're seeking $1.5 million to adopt new Industry 4.0 robotics to increase our production line speed. We are a for-profit with 85 employees, operating for 8 years.",
+    "industry/sector": "Automobile",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "Saskatoon Food Hub is a non-profit cooperative based in Ontario. We are working to connect local agricultural producers directly with urban consumers and restaurants. We are seeking $80,000 for a feasibility study and business plan development for a central distribution and processing facility.",
+    "industry/sector": "Food Production",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "OceanGuard Technologies is a for-profit company in Ontario. We design and deploy AI-powered acoustic monitoring systems to protect marine mammals from shipping and industrial activity. We seek $1 million to ruggedize our gen-2 buoy system and expand our sales team. We are a 3-year-old company with 22 employees.",
+    "industry/sector": "Environmental Technology",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": "Our AI, 'CetaceanNet', can identify 12 species of whales and dolphins with 98% accuracy in real-time. This is a critical tool for regulatory compliance in offshore wind and oil & gas. The total addressable market is $1.2B annually."
+  },
+  {
+    "description": "AI-Med Diagnostics is a HealthTech SME in Ontario. We are developing a computational solution that analyzes medical images (MRIs, CTs) to assist radiologists in early-stage disease detection. We are seeking $7 million to complete Phase 3 clinical trials and apply for Health Canada approval. We are a for-profit with 40 employees.",
+    "industry/sector": "Health Technology",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "The Regent Theatre is a non-profit heritage organization in Ontario. We are seeking $500,000 to complete essential capital upgrades, including renovating our arts facility's accessibility features (ramps, elevator) and purchasing new digital projection equipment.",
+    "industry/sector": "Arts and Heritage",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "EcoTransit Edmonton is a municipal government entity based in Ontario. We are requesting $10 million to support a demonstration project for 5 hydrogen fuel-cell buses and install the required fueling infrastructure at our central depot. This project will test performance in extreme cold weather.",
+    "industry/sector": "Sustainable Energy",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "First Nations Digital Archive is an indigenous-led non-profit from British Columbia. We are working to digitize and preserve language recordings and cultural stories from elders. We are seeking $250,000 to acquire specialized scanning equipment and train 10 community 'Digital Keepers'.",
+    "industry/sector": "Creative Industries",
+    "region": "British Columbia",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "Boreal Carbon Capture is a climate-tech company from Quebec. Our focus is on direct-air-capture (DAC) technology for heavy industry, like cement and steel plants. We are seeking $50 million to build our first full-scale commercial demonstrator. We are a for-profit with 60 employees.",
+    "industry/sector": "Green Technology",
+    "region": "Quebec",
+    "country": "Canada",
+    "pitch_deck_extracted": "Our novel sorbent technology operates at a lower temperature, cutting energy costs by 40% compared to existing DAC solutions. This funding is to de-risk our technology at a commercial scale (1,000 tonnes/year) and secure our first major offtake agreements."
+  },
+  {
+    "description": "RemoteWork Connect is a for-profit social enterprise based in Ontario. We are developing a digital platform to connect skilled workers in rural and Atlantic Canada with high-paying remote jobs. We are seeking $400,000 for platform development and market expansion.",
+    "industry/sector": "Digital Technology",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "Canadiana-VR is a Montreal-based SME from Quebec. We create immersive virtual reality experiences that bring Canadian historical events to life for museums and schools. We seek $600,000 to develop our next module on the 1812-1814 war and to build a subscription platform for schools.",
+    "industry/sector": "Creative Industries",
+    "region": "Quebec",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "MycoBuild Materials is a startup from Ontario. We are using mycelium (mushroom root) to grow sustainable building insulation. We are seeking $150,000 for R&D to improve fire retardancy and scale up from lab to pilot production. We are a for-profit with 6 employees.",
+    "industry/sector": "Green Technology",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": "Our myco-insulation is carbon-negative, non-toxic, and fully compostable. It's a 1-to-1 replacement for styrofoam. We need this seed funding to finalize our material composite and automate our growth-form process."
+  },
+  {
+    "description": "Quebec Battery Metals is an SME from Quebec. We are involved in the exploration and sustainable extraction of lithium and cobalt. We are seeking $15 million for feasibility studies and to prove the resource at our new Northern Quebec site.",
+    "industry/sector": "Critical Minerals",
+    "region": "Quebec",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  },
+  {
+    "description": "ElderCare AI is a for-profit company from Ontario. We provide AI-powered monitoring and communication tools for seniors living independently. We are seeking $2.5 million to expand our sales to long-term care facilities and for market development in the US. We have 35 employees and have been operating for 3 years.",
+    "industry/sector": "Healthcare",
+    "region": "Ontario",
+    "country": "Canada",
+    "pitch_deck_extracted": ""
+  }
+]
