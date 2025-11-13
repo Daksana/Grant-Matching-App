@@ -49,6 +49,17 @@ IF full_filters available → Apply all
 4. **Judge & rank** → Cohere evaluates fit considering sector alignment, eligibility, funding adequacy, deadlines, and data completeness
 5. **Output results** → Ranked matches with scores and explanations
 
+## Example Input
+
+```json
+{
+  "description": "AgriFuture Solutions Inc. is a small-to-medium enterprise (SME) based in Ontario. We are developing AI-driven crop monitoring systems to optimize irrigation and reduce water waste. We are seeking $500,000, which is 60% of our pilot project cost, to scale field trials. We are a for-profit company operating for 2 years with 15 employees.",
+  "industry/sector": "Agriculture Technology",
+  "region": "Ontario",
+  "country": "Canada",
+  "pitch_deck_extracted": "Our technology uses proprietary drone-based thermal imaging combined with a machine learning model. We have proven a 30% reduction in water usage in our initial test plots. Funding will be used for 10 more trial deployments and to hire 2 data scientists."
+}
+```
 ## Example Output
 
 ```json
